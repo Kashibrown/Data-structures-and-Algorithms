@@ -26,6 +26,5 @@ else:
         print(f'{num[1]} is the greater number')
     else:
         print(f'{num[2]} is the greater number') 
-
-
+print("Thank you!")
 
