@@ -11,7 +11,7 @@ else:
         print(f'{a[1]} is the greater number ')
     else:
         print(f'{a[2]} is the greater number') 
-        
+print("Thank you! ")
         #OR this if our user wants to enter 2 digits or more 
         
 number = input("Enter 3 different number and pls add a comma: ")
